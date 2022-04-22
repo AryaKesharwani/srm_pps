@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<unistd.h>                  //for linux user use this
+#include<unistd.h>
 #define CYCLE 60
 
 int main()
